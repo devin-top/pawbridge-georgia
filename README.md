@@ -80,3 +80,8 @@ See [Netlify deployment instructions](docs/DEPLOYMENT.md). If the contact form f
 ## Quality checks
 
 Run `python3 -m unittest discover -s tests -v` to check core pages, paths and HTML form structure. GitHub Actions runs the same checks on each pull request.
+
+## Botanical visual refresh
+
+The PawBridge website now uses an original botanical SVG illustration (`assets/hero-botanical.svg`) and a cohesive pastel design system featuring sage green, olive, cream, and peach. The artwork is custom-made for this project. The existing English-language content and Netlify Forms integration remain in place.
+
