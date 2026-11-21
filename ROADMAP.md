@@ -12,19 +12,27 @@ This roadmap is a plan for future development, not a list of completed features.
 
 ## Immediate verification
 
-- [ ] Deploy current GitHub version to Netlify production.
-- [ ] Verify `neostorys@gmail.com` is visible on the live website.
-- [ ] Verify Netlify Forms detects `pawbridge-inquiries`.
-- [ ] Submit a test message and confirm it appears in Netlify Forms.
-- [ ] Configure and verify email notifications.
-- [ ] Set GitHub repository description and homepage URL.
+- [x] Deploy GitHub `main` to Netlify production.
+- [x] Verify `neostorys@gmail.com` is visible on the live website.
+- [x] Verify Netlify Forms detects `pawbridge-inquiries`.
+- [x] Submit a test message and confirm it appears in Netlify Forms.
+- [ ] Verify new-message email notifications reach the intended inbox; submission capture was confirmed separately.
+- [x] Set GitHub repository description and homepage URL.
+
+## PawBridge 2.1: design system
+
+- [x] Add common site-wide navigation and footer design.
+- [x] Centralize accessible color tokens and split CSS into logical layers.
+- [x] Add regression checks for all eight pages and the unchanged contact form.
+- [ ] Manually verify mobile menus and contrast in a deployed browser.
+- [ ] Verify form capture and email notifications after deployment.
 
 ## Phase 1: frontend engineering
 
 - [ ] Refactor static files into maintainable React / Next.js components.
 - [ ] Introduce TypeScript, formatting and linting.
 - [ ] Add automated accessibility and mobile navigation checks.
-- [ ] Add CI checks on pull requests.
+- [x] Add CI checks on pull requests.
 
 ## Phase 2: shelter and animal directory
 
