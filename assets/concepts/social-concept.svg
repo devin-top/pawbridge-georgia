@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" role="img" aria-labelledby="title desc"><title id="title">Social storytelling campaign concept</title><desc id="desc">An original dog and cat in a social media campaign visual, framed by soft botanical accents.</desc><rect width="880" height="620" fill="#d6e3dc"/>
+<rect x="218" y="45" width="438" height="528" rx="40" fill="#fff9eb" stroke="#698272" stroke-width="6"/>
+<rect x="243" y="73" width="388" height="54" rx="21" fill="#e8e8d6"/>
+<circle cx="275" cy="101" r="16" fill="#9fac84"/><rect x="300" y="95" width="134" height="12" rx="6" fill="#a7b995"/>
+<circle cx="435" cy="317" r="177" fill="#e8d3c4"/>
+<g transform="translate(170 91) scale(.64)"><g stroke="#283c30" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M278 272C291 190 374 158 449 189C513 216 547 281 525 360C513 429 437 475 361 458C281 441 252 360 278 272Z" fill="#fff8ea"/>
+<path d="M285 245C240 242 209 299 218 349C227 403 273 397 292 345" fill="#eec5ae"/>
+<path d="M467 208C512 191 572 241 569 292C563 340 532 354 507 317" fill="#eec5ae"/>
+<path d="M330 309q22 -25 44 2M429 307q21 -25 42 2" fill="none"/>
+<path d="M372 361q30 -19 54 2q-24 36 -52 0Z" fill="#2d3e31"/>
+<path d="M394 388q-7 33 -33 20M396 388q12 30 37 16" fill="none" stroke-width="5"/>
+<circle cx="338" cy="361" r="4" fill="#2d3e31" stroke="none"/><circle cx="446" cy="356" r="4" fill="#2d3e31" stroke="none"/>
+</g></g>
+<g transform="translate(380 232) scale(.39)"><g stroke="#283c30" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M270 290L246 154L352 210Q419 186 482 217L593 160L575 299Q571 413 470 461Q367 486 299 419Q258 369 270 290Z" fill="#fff8e8"/>
+<path d="M272 193l59 39l-48 26Z" fill="#ebc2ae" stroke="none"/><path d="M519 231l57 -42l-12 66Z" fill="#ebc2ae" stroke="none"/>
+<path d="M336 320q23 -26 50 2M456 322q22 -27 46 -2" fill="none"/>
+<path d="M401 348q19 -17 35 0q-18 23 -35 0Z" fill="#283c30"/>
+<path d="M418 360q-8 29 -33 14M418 360q9 27 35 13" stroke-width="5" fill="none"/>
+<path d="M310 365l-70 -17M311 386l-74 8M520 365l69 -19M523 389l72 8" stroke-width="5" fill="none"/>
+<path d="M446 212q76 -14 113 26q-43 48 -99 22Z" fill="#bdcba7" stroke="none"/>
+</g></g>
+<rect x="260" y="486" width="273" height="16" rx="8" fill="#9aac89"/><rect x="260" y="514" width="196" height="13" rx="7" fill="#d8c5b4"/>
+<path d="M260 459l11 -17l11 17l-22 -8l22 -1" fill="#d89b89"/>
+<g transform="translate(176 558) scale(0.7 0.7)" fill="none" stroke="#34483b" stroke-width="5" stroke-linecap="round"><path d="M0 0Q-17 -118 46 -230"/><path d="M4 -33Q-77 -97 -94 -165Q-21 -149 4 -96Z" fill="#adb98f"/><path d="M11 -100Q29 -190 115 -202Q89 -130 11 -100Z" fill="#93a675"/><path d="M28 -170Q-22 -242 -84 -246Q-54 -191 28 -170Z" fill="#bac99c"/></g><g transform="translate(702 546) scale(-0.75 0.75)" fill="none" stroke="#34483b" stroke-width="5" stroke-linecap="round"><path d="M0 0Q-17 -118 46 -230"/><path d="M4 -33Q-77 -97 -94 -165Q-21 -149 4 -96Z" fill="#adb98f"/><path d="M11 -100Q29 -190 115 -202Q89 -130 11 -100Z" fill="#93a675"/><path d="M28 -170Q-22 -242 -84 -246Q-54 -191 28 -170Z" fill="#bac99c"/></g>
+<circle cx="718" cy="133" r="34" fill="#efd4ba"/><circle cx="142" cy="209" r="26" fill="#bdcaa7"/>
+</svg>

@@ -17,3 +17,40 @@
 .form-feedback.form-error{background:#fff0e9;color:#9b3b2f;padding:12px 14px;border-radius:10px;border:1px solid #efbaa9}
 .button:disabled{opacity:.65;cursor:wait}
 @media(max-width:680px){.site-page{padding:54px 20px 85px}.page-panel{padding:24px}.page-stack{grid-template-columns:1fr}}
+
+/* PawBridge 2.2: portfolio previews and internal page visual storytelling */
+.concept-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px}
+.concept-card{border:1px solid var(--line);border-radius:26px;overflow:hidden;background:var(--paper);box-shadow:0 12px 28px rgba(48,67,54,.055);display:flex;flex-direction:column}
+.concept-preview{aspect-ratio:880/620;overflow:hidden;background:#f1e8db}
+.concept-preview img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .35s ease}
+.concept-card:hover .concept-preview img{transform:scale(1.025)}
+.concept-detail{padding:25px 24px 28px;flex:1;display:flex;flex-direction:column}
+.concept-kicker{font-size:10px;letter-spacing:.14em;font-weight:800;color:var(--brand-accent)}
+.concept-detail h3{font:700 24px/1.18 'Outfit',sans-serif;letter-spacing:-.035em;color:var(--ink);margin:11px 0 10px}
+.concept-detail p{font-size:13px;line-height:1.75;color:var(--muted);margin:0}
+.concept-detail .concept-deliverables{font-size:11px;color:var(--brand-clay);font-weight:700;border-top:1px solid var(--line);padding-top:16px;margin-top:auto}
+.portfolio-action{display:flex;gap:22px;align-items:center;flex-wrap:wrap;margin-top:28px}
+.portfolio-action>span{font-size:12px;color:var(--muted);max-width:300px}
+.portfolio-page{max-width:1180px}
+.portfolio-page .lead{max-width:900px}
+.portfolio-page .filter-group{margin-top:30px}
+.portfolio-disclosure{background:#eef0e3;border-left:4px solid var(--brand-accent);border-radius:12px;padding:18px 21px;margin:25px 0;color:var(--ink2);font-size:14px;line-height:1.7}
+.portfolio-explain{display:grid;grid-template-columns:.9fr 1.1fr;gap:40px;margin:74px 0 52px}
+.portfolio-intro h2{font:700 clamp(27px,3vw,38px)/1.15 'Outfit',sans-serif;letter-spacing:-.04em}
+.portfolio-intro p,.portfolio-steps p{font-size:14px;color:var(--muted)}
+.portfolio-steps{display:grid;gap:14px}
+.portfolio-steps article{border:1px solid var(--line);border-radius:18px;padding:20px 24px;background:var(--paper)}
+.portfolio-steps article span{font-size:11px;font-weight:800;color:var(--brand-accent)}
+.portfolio-steps h3{margin:4px 0;font:700 21px 'Outfit',sans-serif}
+.portfolio-steps p{margin:0}
+.portfolio-next{margin:45px 0 0;padding:40px;border-radius:24px;background:#e7ead9}
+.portfolio-next h2{font:700 clamp(26px,3.4vw,39px)/1.2 'Outfit',sans-serif;margin:0 0 10px}
+.portfolio-next p{font-size:14px;margin:0 0 22px}
+.page-visual-banner{margin:34px 0;border-radius:25px;overflow:hidden;background:#eee8d9;border:1px solid var(--line)}
+.page-visual-banner img{display:block;width:100%;height:240px;object-fit:cover;object-position:center 48%}
+.page-visual-caption{display:flex;justify-content:space-between;align-items:center;gap:18px;padding:14px 20px;background:var(--paper)}
+.page-visual-caption span{font-size:10px;letter-spacing:.13em;font-weight:800;color:var(--brand-accent)}
+.page-visual-caption a{font-size:12px;font-weight:700;color:var(--ink)}
+@media(max-width:900px){.concept-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.portfolio-explain{grid-template-columns:1fr}}
+@media(max-width:590px){.concept-grid{grid-template-columns:1fr}.concept-preview{aspect-ratio:880/510}.portfolio-action{display:block}.portfolio-action>span{display:block;margin-top:16px}.portfolio-next{padding:27px}.page-visual-banner img{height:185px}.page-visual-caption{flex-wrap:wrap}.concept-detail{padding:21px}}
+@media(prefers-reduced-motion:reduce){.concept-preview img{transition:none}}

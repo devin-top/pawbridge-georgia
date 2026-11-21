@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" role="img" aria-labelledby="title desc"><title id="title">Shelter website concept</title><desc id="desc">An original calm dog portrait in a botanical web design concept.</desc><rect width="880" height="620" fill="#e7eee1"/>
+<circle cx="616" cy="173" r="143" fill="#b2be91"/><circle cx="215" cy="480" r="164" fill="#f1d4bd"/>
+<rect x="103" y="69" width="675" height="475" rx="27" fill="#fff9ef" stroke="#9dad96" stroke-width="5"/>
+<rect x="103" y="69" width="675" height="62" rx="27" fill="#f1ebdf"/>
+<path d="M105 109h672" stroke="#9dad96" stroke-width="4"/>
+<circle cx="144" cy="101" r="9" fill="#d99c88"/><circle cx="171" cy="101" r="9" fill="#ddc884"/><circle cx="198" cy="101" r="9" fill="#9cb78c"/>
+<rect x="150" y="180" width="242" height="24" rx="12" fill="#bdcda9"/><rect x="150" y="229" width="188" height="16" rx="8" fill="#e0c4b5"/><rect x="150" y="267" width="218" height="16" rx="8" fill="#d6ddcc"/><rect x="150" y="311" width="156" height="47" rx="23" fill="#385543"/>
+<circle cx="547" cy="326" r="153" fill="#dce8d6"/><g transform="translate(683 506) scale(-0.75 0.75)" fill="none" stroke="#34483b" stroke-width="5" stroke-linecap="round"><path d="M0 0Q-17 -118 46 -230"/><path d="M4 -33Q-77 -97 -94 -165Q-21 -149 4 -96Z" fill="#adb98f"/><path d="M11 -100Q29 -190 115 -202Q89 -130 11 -100Z" fill="#93a675"/><path d="M28 -170Q-22 -242 -84 -246Q-54 -191 28 -170Z" fill="#bac99c"/></g>
+<g transform="translate(243 88) scale(.73)"><g stroke="#283c30" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M278 272C291 190 374 158 449 189C513 216 547 281 525 360C513 429 437 475 361 458C281 441 252 360 278 272Z" fill="#fff8ea"/>
+<path d="M285 245C240 242 209 299 218 349C227 403 273 397 292 345" fill="#eec5ae"/>
+<path d="M467 208C512 191 572 241 569 292C563 340 532 354 507 317" fill="#eec5ae"/>
+<path d="M330 309q22 -25 44 2M429 307q21 -25 42 2" fill="none"/>
+<path d="M372 361q30 -19 54 2q-24 36 -52 0Z" fill="#2d3e31"/>
+<path d="M394 388q-7 33 -33 20M396 388q12 30 37 16" fill="none" stroke-width="5"/>
+<circle cx="338" cy="361" r="4" fill="#2d3e31" stroke="none"/><circle cx="446" cy="356" r="4" fill="#2d3e31" stroke="none"/>
+</g></g>
+<path d="M195 432h213" stroke="#c7d7ba" stroke-width="10" stroke-linecap="round"/>
+<path d="M195 464h130" stroke="#e1d5c7" stroke-width="10" stroke-linecap="round"/>
+</svg>
