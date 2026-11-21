@@ -58,3 +58,11 @@ This roadmap is a plan for future development, not a list of completed features.
 - [ ] Find interested organizations and confirm participation.
 - [ ] Collect feedback, fix usability issues, document lessons learned.
 - [ ] Measure agreed outcomes without inventing adoption counts or partners.
+
+## PawBridge 2.2: portfolio and visual storytelling
+
+- [x] Create a separate concept portfolio page and show three distinct creative directions.
+- [x] Add reusable original SVG concept artwork and relevant imagery to selected secondary pages.
+- [x] Keep sample work transparent and explicitly labeled.
+- [ ] Confirm production Netlify deployment and browser view on desktop and mobile.
+- [ ] Validate form capture after deployment (the form's code is unchanged).

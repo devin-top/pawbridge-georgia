@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGES = ("index.html", "mission.html", "services.html", "project.html",
-         "faq.html", "privacy.html", "thanks.html", "404.html")
+         "faq.html", "privacy.html", "work.html", "thanks.html", "404.html")
 STYLES = ("tokens.css", "site.css", "pages.css", "theme.css")
 
 class Inspector(HTMLParser):

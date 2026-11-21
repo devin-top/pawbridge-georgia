@@ -4,7 +4,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT=Path(__file__).resolve().parents[1]
-PAGES=("index.html","mission.html","services.html","project.html","faq.html","privacy.html","thanks.html","404.html")
+PAGES=("index.html","mission.html","services.html","project.html","faq.html","privacy.html","work.html","thanks.html","404.html")
 
 class Tags(HTMLParser):
     def __init__(self):

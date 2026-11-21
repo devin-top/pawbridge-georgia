@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" role="img" aria-labelledby="title desc"><title id="title">Adoption campaign poster concept</title><desc id="desc">An original friendly cat with pastel flowers for a sample adoption awareness poster.</desc><rect width="880" height="620" fill="#efdccf"/>
+<circle cx="640" cy="155" r="167" fill="#b4bd90"/><circle cx="242" cy="465" r="174" fill="#d4e0d2"/>
+<rect x="104" y="66" width="670" height="488" rx="34" fill="#fff9ec" stroke="#d4beac" stroke-width="5"/>
+<path d="M126 465Q327 355 768 490v44H126Z" fill="#e6ddc1"/>
+<circle cx="518" cy="291" r="179" fill="#ead1bf"/>
+<g transform="translate(167 55) scale(.76)"><g stroke="#283c30" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M270 290L246 154L352 210Q419 186 482 217L593 160L575 299Q571 413 470 461Q367 486 299 419Q258 369 270 290Z" fill="#fff8e8"/>
+<path d="M272 193l59 39l-48 26Z" fill="#ebc2ae" stroke="none"/><path d="M519 231l57 -42l-12 66Z" fill="#ebc2ae" stroke="none"/>
+<path d="M336 320q23 -26 50 2M456 322q22 -27 46 -2" fill="none"/>
+<path d="M401 348q19 -17 35 0q-18 23 -35 0Z" fill="#283c30"/>
+<path d="M418 360q-8 29 -33 14M418 360q9 27 35 13" stroke-width="5" fill="none"/>
+<path d="M310 365l-70 -17M311 386l-74 8M520 365l69 -19M523 389l72 8" stroke-width="5" fill="none"/>
+<path d="M446 212q76 -14 113 26q-43 48 -99 22Z" fill="#bdcba7" stroke="none"/>
+</g></g>
+<g transform="translate(249 517) scale(0.63 0.63)" fill="none" stroke="#34483b" stroke-width="5" stroke-linecap="round"><path d="M0 0Q-17 -118 46 -230"/><path d="M4 -33Q-77 -97 -94 -165Q-21 -149 4 -96Z" fill="#adb98f"/><path d="M11 -100Q29 -190 115 -202Q89 -130 11 -100Z" fill="#93a675"/><path d="M28 -170Q-22 -242 -84 -246Q-54 -191 28 -170Z" fill="#bac99c"/></g><g transform="translate(696 504) scale(-0.69 0.69)" fill="none" stroke="#34483b" stroke-width="5" stroke-linecap="round"><path d="M0 0Q-17 -118 46 -230"/><path d="M4 -33Q-77 -97 -94 -165Q-21 -149 4 -96Z" fill="#adb98f"/><path d="M11 -100Q29 -190 115 -202Q89 -130 11 -100Z" fill="#93a675"/><path d="M28 -170Q-22 -242 -84 -246Q-54 -191 28 -170Z" fill="#bac99c"/></g>
+<g stroke="#34483b" stroke-width="5"><circle cx="662" cy="237" r="17" fill="#fff4e0"/><path d="M662 219v-25M662 255v26M644 237h-23M680 237h24"/></g>
+<rect x="155" y="93" width="179" height="22" rx="11" fill="#b1bf95"/><rect x="155" y="128" width="122" height="13" rx="7" fill="#e8c4b4"/>
+</svg>

@@ -99,3 +99,12 @@ This update keeps the static architecture, the original botanical hero artwork, 
 **Form note:** The HTML form and `assets/js/contact.js` have deliberately not been modified. Netlify Forms submission persistence and Gmail delivery must be tested in the Netlify dashboard after deployment; GitHub CI tests cannot simulate Netlify's production service.
 
 Run checks locally with `python3 -m unittest discover -s tests -v`. The files are also validated automatically on GitHub.
+
+## PawBridge 2.2 — visual storytelling and transparent sample portfolio
+
+- Dedicated `work.html` portfolio of three clearly labeled original concept projects.
+- Matching concept assets in `assets/concepts/` for shelter websites, adoption campaigns and social content.
+- Home portfolio cards with functional category filters and a link to fuller explanations.
+- Decorative visual banners on mission, services and project pages.
+- No real shelter partnerships, rescued animals, adoption counts or client work are invented.
+- Existing Netlify Forms HTML, contact JavaScript and notification setup remain unchanged.
