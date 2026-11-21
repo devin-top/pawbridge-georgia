@@ -1,0 +1,19 @@
+/* Shared pages and responsive layouts */
+.site-page{max-width:940px;margin:0 auto;padding:80px 30px 115px}
+.site-page .overline{display:inline-block;letter-spacing:.18em;text-transform:uppercase;font-weight:800;color:#567761;font-size:12px;margin-bottom:18px}
+.site-page h1{font-family:Outfit,Arial,sans-serif;font-size:clamp(36px,6vw,65px);line-height:1.08;margin:0 0 24px;letter-spacing:-.035em}
+.site-page h2{font-family:Outfit,Arial,sans-serif;font-size:clamp(23px,3vw,32px);margin:30px 0 12px}
+.site-page p,.site-page li{color:var(--ink2);line-height:1.8}
+.site-page a:not(.button){text-decoration:underline;text-underline-offset:3px}
+.site-page .lead{font-size:19px;color:var(--muted);max-width:770px;line-height:1.75}
+.page-panel{margin:24px 0;padding:32px;border:1px solid var(--line);background:var(--paper);border-radius:22px;box-shadow:var(--shadow)}
+.page-panel h2:first-child{margin-top:0}
+.page-stack{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:28px 0}
+.page-stack .page-panel{margin:0}
+.page-back{display:inline-flex;align-items:center;gap:8px;font-weight:700;margin:0 0 28px;color:var(--ink)}
+.page-pill{display:inline-flex;background:var(--sage);color:var(--ink);border-radius:30px;font-size:12px;padding:5px 12px;font-weight:800;margin-right:8px}
+.page-foot{border-top:1px solid var(--line);padding:32px 30px;text-align:center;color:var(--muted)}
+.page-foot a{text-decoration:underline}
+.form-feedback.form-error{background:#fff0e9;color:#9b3b2f;padding:12px 14px;border-radius:10px;border:1px solid #efbaa9}
+.button:disabled{opacity:.65;cursor:wait}
+@media(max-width:680px){.site-page{padding:54px 20px 85px}.page-panel{padding:24px}.page-stack{grid-template-columns:1fr}}

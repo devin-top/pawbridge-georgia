@@ -17,16 +17,23 @@ flowchart TD
 
 ### Files
 
-- `index.html` — landing page, styles, client-side interactions, contact form.
-- `thanks.html` — confirmation page for form submission.
-- `assets/` — favicon and illustrations.
+- `index.html` — public landing page and Netlify Forms integration.
+- `mission.html`, `services.html`, `project.html`, `faq.html`, `privacy.html` — standalone content pages.
+- `404.html` and `thanks.html` — custom error and contact confirmation pages.
+- `assets/css/tokens.css` — canonical color, radius and shadow tokens.
+- `assets/css/site.css` — base site styles and layout.
+- `assets/css/pages.css` — shared secondary-page components.
+- `assets/css/theme.css` — botanical identity and 2.1 component refinements.
+- `assets/js/site.js` — mobile navigation and portfolio filters.
+- `assets/js/contact.js` — Netlify form progressive enhancement; unchanged in 2.1.
+- `assets/` — favicon and original SVG illustrations.
 
 ### Current limitations
 
 - No application server or database.
 - No animal directory, verified profiles, user accounts, shelter dashboard, or adoption workflow.
-- Contact form delivery and notification status must be validated through a real test submission in Netlify.
-- No formal security, integration, or accessibility test suite yet.
+- Netlify form capture was confirmed with a real submission in the owner's dashboard; email notification delivery requires separate verification.
+- Unit-level static structure checks exist, but full browser accessibility, integration, performance and security audits are still future work.
 
 ## 2. Proposed architecture (future roadmap)
 

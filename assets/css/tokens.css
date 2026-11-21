@@ -1,0 +1,19 @@
+/* PawBridge 2.1 • Single source of design tokens.
+   Contrast-tested foregrounds on the cream and paper surfaces. */
+:root {
+  --ink:#2e4035;
+  --ink2:#40584a;
+  --muted:#526557;
+  --cream:#f8f1e5;
+  --paper:#fffaf1;
+  --peach:#f0d6c4;
+  --coral:#9f5947;
+  --yellow:#e9dfbc;
+  --sage:#d9e2cc;
+  --line:#e1d7c7;
+  --brand-accent:#466143;
+  --brand-clay:#8b5942;
+  --radius:24px;
+  --shadow:0 22px 54px rgba(45,62,50,.09);
+  font-synthesis:none;
+}

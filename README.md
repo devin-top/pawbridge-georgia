@@ -25,7 +25,7 @@ Rescue organizations often have limited time and resources to tell the stories o
 
 ## Tech stack — current
 
-- HTML5, modular CSS, vanilla JavaScript
+- HTML5, layered CSS (tokens/base/pages/theme), vanilla JavaScript
 - Local SVG illustrations and assets
 - Netlify static hosting and Netlify Forms integration markup
 - GitHub for source control
@@ -85,3 +85,17 @@ Run `python3 -m unittest discover -s tests -v` to check core pages, paths and HT
 
 The PawBridge website now uses an original botanical SVG illustration (`assets/hero-botanical.svg`) and a cohesive pastel design system featuring sage green, olive, cream, and peach. The artwork is custom-made for this project. The existing English-language content and Netlify Forms integration remain in place.
 
+
+## PawBridge 2.1 — design-system refresh
+
+This update keeps the static architecture, the original botanical hero artwork, and the Netlify form contract intact while improving site-wide navigation and accessibility.
+
+- Shared navigation/header/footer markup across all 8 pages.
+- Mobile menu available on every page, with Escape-key and outside-click handling.
+- Styles divided into `tokens.css`, `site.css`, `pages.css` and `theme.css`.
+- Centralized, contrast-tested text palette; clearer buttons, focus indicators and labels.
+- Expanded automated validation for internal navigation, CSS layers and contact-form markup.
+
+**Form note:** The HTML form and `assets/js/contact.js` have deliberately not been modified. Netlify Forms submission persistence and Gmail delivery must be tested in the Netlify dashboard after deployment; GitHub CI tests cannot simulate Netlify's production service.
+
+Run checks locally with `python3 -m unittest discover -s tests -v`. The files are also validated automatically on GitHub.
