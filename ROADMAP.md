@@ -1,0 +1,52 @@
+# PawBridge — Development Roadmap
+
+This roadmap is a plan for future development, not a list of completed features.
+
+## Completed: prototype
+
+- [x] Design initial brand and landing page.
+- [x] Create responsive static pages and example creative concepts.
+- [x] Publish source code to a public GitHub repository.
+- [x] Publish the static site to Netlify.
+- [x] Add public contact email and form markup to GitHub source.
+
+## Immediate verification
+
+- [ ] Deploy current GitHub version to Netlify production.
+- [ ] Verify `neostorys@gmail.com` is visible on the live website.
+- [ ] Verify Netlify Forms detects `pawbridge-inquiries`.
+- [ ] Submit a test message and confirm it appears in Netlify Forms.
+- [ ] Configure and verify email notifications.
+- [ ] Set GitHub repository description and homepage URL.
+
+## Phase 1: frontend engineering
+
+- [ ] Refactor static files into maintainable React / Next.js components.
+- [ ] Introduce TypeScript, formatting and linting.
+- [ ] Add automated accessibility and mobile navigation checks.
+- [ ] Add CI checks on pull requests.
+
+## Phase 2: shelter and animal directory
+
+- [ ] Define data schema and authorization rules.
+- [ ] Add a mock animal directory with clearly labeled sample data.
+- [ ] Build a private dashboard for shelter-managed animal profiles.
+- [ ] Introduce image upload, review and publishing workflow.
+
+## Phase 3: adoption inquiry workflow
+
+- [ ] Design consent, data minimization and retention policies.
+- [ ] Implement inquiry routing and staff notifications.
+- [ ] Test access restrictions and audit logging.
+
+## Phase 4: AI-assisted creative support
+
+- [ ] Draft adoption descriptions and multilingual campaign copy.
+- [ ] Require human review before publication.
+- [ ] Add content-safety and factual accuracy checks.
+
+## Phase 5: pilot and evaluation
+
+- [ ] Find interested organizations and confirm participation.
+- [ ] Collect feedback, fix usability issues, document lessons learned.
+- [ ] Measure agreed outcomes without inventing adoption counts or partners.
