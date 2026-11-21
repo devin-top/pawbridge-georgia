@@ -10,7 +10,7 @@
   form.addEventListener("submit", async (event) => {
     if (!form.checkValidity()) return;
     event.preventDefault();
-    status.classList.remove("form-error");
+    status.classList.remove("form-error", "is-visible");
     status.textContent = "";
     submit.disabled = true;
     submit.textContent = "Sending…";
@@ -25,7 +25,7 @@
       window.location.assign("/thanks.html");
     } catch (error) {
       console.error("PawBridge contact form error:", error);
-      status.classList.add("form-error");
+      status.classList.add("form-error", "is-visible");
       status.textContent = "Your message could not be sent. Please try again or email neostorys@gmail.com directly.";
       submit.disabled = false;
       submit.innerHTML = label;

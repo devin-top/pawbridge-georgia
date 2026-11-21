@@ -10,7 +10,7 @@
 .page-panel h2:first-child{margin-top:0}
 .page-stack{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:28px 0}
 .page-stack .page-panel{margin:0}
-.page-back{display:inline-flex;align-items:center;gap:8px;font-weight:700;margin:0 0 28px;color:var(--ink)}
+.page-back{display:flex;width:fit-content;align-items:center;gap:8px;font-weight:700;margin:0 0 28px;color:var(--ink)}
 .page-pill{display:inline-flex;background:var(--sage);color:var(--ink);border-radius:30px;font-size:12px;padding:5px 12px;font-weight:800;margin-right:8px}
 .page-foot{border-top:1px solid var(--line);padding:32px 30px;text-align:center;color:var(--muted)}
 .page-foot a{text-decoration:underline}
