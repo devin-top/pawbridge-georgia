@@ -1,0 +1,16 @@
+{
+  "name": "PawBridge — Design for Second Chances",
+  "short_name": "PawBridge",
+  "description": "Animal rescue outreach in Georgia",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#243d35",
+  "background_color": "#f8f7f1",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
