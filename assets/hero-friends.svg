@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 750" role="img" aria-labelledby="title desc">
+<title id="title">Illustration of a happy dog and curious cat</title><desc id="desc">Friendly, original colorful artwork of a rescue dog and cat together on a sage green background.</desc>
+<defs><clipPath id="frame"><rect x="0" y="0" width="700" height="750" rx="46"/></clipPath><filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="13" flood-color="#354832" flood-opacity=".15"/></filter></defs>
+<g clip-path="url(#frame)"><rect width="700" height="750" fill="#DAE6D1"/><circle cx="572" cy="100" r="210" fill="#EBF0DE"/><circle cx="80" cy="640" r="226" fill="#C6D9C0"/><path d="M-20 555 Q240 460 720 560 V800 H-20Z" fill="#AEC9AB"/><g opacity=".65" fill="none" stroke="#A0B79C" stroke-width="5"><path d="M82 215 q-40-65-72-45 M106 240 q-20-60-58-65 M605 350 q42-45 75-23 M600 370 q54-10 70 33"/></g>
+<!-- dog body -->
+<g filter="url(#shadow)"><ellipse cx="333" cy="693" rx="224" ry="217" fill="#B9794C"/><path d="M250 538 Q332 487 422 540 L435 800 H250Z" fill="#FFF0D6"/><path d="M268 626 Q326 666 388 627 L380 800 H285Z" fill="#FAE6C9"/>
+<!-- ears behind head -->
+<path d="M200 279 Q77 202 95 401 Q117 477 197 441 L258 334Z" fill="#7D4B39"/><path d="M473 290 Q579 226 554 398 Q539 451 464 439 L428 332Z" fill="#7D4B39"/>
+<!-- main head -->
+<path d="M184 311 Q190 178 337 164 Q474 171 494 307 L493 428 Q475 548 341 562 Q214 557 185 431Z" fill="#CB9364"/>
+<!-- side face patches -->
+<path d="M200 351 Q177 399 209 475 Q242 523 290 526 Q236 452 245 355Z" fill="#E0AC7D"/><path d="M475 343 Q512 410 471 482 Q437 517 391 527 Q441 447 437 353Z" fill="#E0AC7D"/>
+<!-- white muzzle stripe -->
+<path d="M321 171 Q345 153 368 173 Q353 290 370 365 Q393 438 389 526 Q344 562 298 529 Q298 432 315 374 Q332 297 321 171" fill="#F8E5CC"/>
+<!-- eyes -->
+<ellipse cx="265" cy="353" rx="21" ry="29" fill="#302A28"/><ellipse cx="414" cy="353" rx="21" ry="29" fill="#302A28"/><circle cx="272" cy="344" r="7" fill="white"/><circle cx="421" cy="344" r="7" fill="white"/><path d="M236 300 Q258 284 278 302 M401 302 Q422 287 442 303" stroke="#835B47" stroke-width="10" fill="none" stroke-linecap="round"/>
+<!-- mouth -->
+<ellipse cx="339" cy="461" rx="89" ry="75" fill="#F1D6B7"/><path d="M295 468 Q338 518 383 469 Q380 547 339 548 Q298 548 295 468Z" fill="#553D39"/><path d="M319 505 Q339 490 361 508 L360 543 Q340 563 322 542Z" fill="#F58D86"/><path d="M296 458 Q336 432 383 457 Q366 493 339 494 Q312 492 296 458Z" fill="#372E2D"/><ellipse cx="338" cy="446" rx="42" ry="28" fill="#332B2A"/><ellipse cx="323" cy="438" rx="13" ry="6" fill="#76605B" opacity=".5"/>
+<path d="M196 565 Q339 602 476 562" stroke="#D9685D" stroke-width="24" fill="none"/><circle cx="343" cy="581" r="22" fill="#FFE7A6" stroke="#D5AB61" stroke-width="6"/><path d="M343 567 l4 10 11 1-8 7 3 10-10-5-9 5 2-10-8-7 11-1Z" fill="#D99E44"/>
+</g>
+<!-- smaller cat in foreground -->
+<g transform="translate(455 434) rotate(8)" filter="url(#shadow)"><path d="M42 241 Q-15 196 23 117 L45 46 L103 88 L164 67 L207 8 L222 123 Q266 224 215 275Z" fill="#5C6571"/><path d="M54 108 L62 77 L94 109 M178 94 L203 56 L206 118" fill="#BFA5A4"/><path d="M58 151 Q49 129 68 123 Q92 122 97 142 M157 141 Q170 119 193 129 Q206 143 198 155" stroke="#D1D7D6" stroke-width="7" fill="none" stroke-linecap="round"/><ellipse cx="90" cy="164" rx="13" ry="19" fill="#F0C46C"/><ellipse cx="177" cy="163" rx="13" ry="19" fill="#F0C46C"/><ellipse cx="92" cy="163" rx="5" ry="14" fill="#2C3136"/><ellipse cx="178" cy="162" rx="5" ry="14" fill="#2C3136"/><path d="M121 196 Q137 182 154 195 L140 208Z" fill="#E69C9A"/><path d="M139 207 v13 q-12 15-22 1 M139 220 q15 15 25-2" fill="none" stroke="#D6DCDD" stroke-width="4" stroke-linecap="round"/><path d="M107 211 L32 207 M107 224 L30 232 M172 211 L249 205 M172 224 L253 237" stroke="#D7DDDB" stroke-width="3" stroke-linecap="round"/><path d="M68 263 Q135 298 208 258" fill="none" stroke="#E0B363" stroke-width="13"/><path d="M54 280 Q135 301 222 278 L229 365 H47Z" fill="#626D78"/><path d="M113 278 Q138 300 159 279 L153 368 H111Z" fill="#F5EEE2"/></g>
+<!-- little stars -->
+<g fill="#FAF7F0"><path d="M102 95 l10 26 27 10-27 10-10 27-10-27-27-10 27-10Z"/><path d="M582 235 l8 19 19 8-19 8-8 20-8-20-19-8 19-8Z"/></g><g stroke="#709A78" stroke-width="6" stroke-linecap="round"><path d="M173 87 v23 M161 98 h24 M558 180 v14 M551 187 h14"/></g>
+</g></svg>
